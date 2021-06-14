@@ -1,0 +1,10 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_eknoor_ideapad__37947: 'http://eknoor-IdeaPad:37947/'}
+rosversion: '1.14.11
+
+  '
+run_id: 569ded58-cd33-11eb-8178-e8f40883e1a9
+turtlesim: {background_b: 255, background_g: 86, background_r: 150}
